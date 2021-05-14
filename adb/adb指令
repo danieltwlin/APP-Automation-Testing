@@ -1,0 +1,7 @@
+# adb(Android Debug Bridge)指令
+# 是開發 Android 時常用到的工具，使用 adb 指令可對 android 裝置進行除錯、測試、檔案處理、安裝/移除 apk 等的操作，
+
+#查詢裝置
+adb devices
+
+
